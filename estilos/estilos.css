@@ -3,9 +3,12 @@ h1 {
     color: red;
     text-align: center;
     padding: 3px;
-     width: 200;
+     width: 5;
     height: 100;
     border: 3px solid black;
+    gap: flex;
+    margin: 500;
+    
 }
 
 div p {
@@ -13,8 +16,21 @@ div p {
 }
 
 p{
-            padding: 3px;
-            width: 200;
+            padding: 30px;
+            width: 50;
             height: 100;
-            border: 3px solid black;
+            border: 3px solid brown;
+            gap: flex;
+            margin-right: 1000px;
             }
+
+        h3{
+            color: red;
+    text-align: center;
+    padding: 3px;
+     width: 5;
+    height: 100;
+    border: 3px solid yellow;
+    gap: flex;
+    margin: 500;
+        }
